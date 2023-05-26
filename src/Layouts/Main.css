@@ -1,0 +1,11 @@
+.footer-part{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border: 1px solid #6cc5e2;
+    background-color: #e1ecef;
+    margin-top: 20px;
+    padding: 5px;
+    position: sticky;
+    bottom: 0px;
+}

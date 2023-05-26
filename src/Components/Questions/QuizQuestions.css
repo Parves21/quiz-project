@@ -1,0 +1,28 @@
+.quizQuestions-1 {
+    border: 1px solid lightblue;
+    border-radius: 10px;
+    margin: 20px 300px;
+    padding: 10px;
+}
+.question-eye{
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+}
+
+.form-1 {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+    margin: 10px;
+}
+
+.radio-button-flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid lightblue;
+    border-radius: 10px;
+    padding: 5px;
+
+}

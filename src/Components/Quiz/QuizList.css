@@ -1,0 +1,25 @@
+.quizList {
+    border: 1px solid lightblue;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+}
+
+.quizList img {
+    height: 180px;
+    width: 200px;
+    padding: 20px;
+}
+
+.quizCardPart{
+    padding: 20px;
+    margin: 0px;
+}
+
+.quizCardContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

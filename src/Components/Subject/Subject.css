@@ -1,0 +1,19 @@
+.quizes {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+    margin: 0px 200px;
+}
+.btn-quiz{
+    border: none;
+    border-radius: 5px;
+    padding: 5px;
+    color: #040400;
+    font-weight: bold;
+}
+.btn-quiz:hover{
+    background-color: #f5f2ed;
+    color: #ff9500;
+    padding: 10px;
+    border-radius: 10px;
+}
